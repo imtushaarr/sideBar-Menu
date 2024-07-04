@@ -6,6 +6,7 @@ This project implements a sidebar navigation menu with a toggle feature using HT
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Demo](#demo)
 - [External Libraries](#external-libraries)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -24,6 +25,12 @@ This project implements a sidebar navigation menu with a toggle feature using HT
 - HTML
 - CSS (including CSS Flexbox and CSS Transitions)
 - JavaScript (ES6+)
+
+## Demo
+<img width="1470" alt="Screenshot 2024-07-04 at 22 40 06" src="https://github.com/imtushaarr/sideBar-Menu/assets/92511269/bc5a22cf-2388-4df1-a913-7da46305397c">
+<img width="1470" alt="Screenshot 2024-07-04 at 22 40 08" src="https://github.com/imtushaarr/sideBar-Menu/assets/92511269/c8f18142-1634-4d22-8b49-5a211ab3d18b">
+
+
 
 ## External Libraries
 
