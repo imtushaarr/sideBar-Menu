@@ -46,7 +46,7 @@ git clone https://github.com/imtushaarr/sideBar-Menu.git
 
 ## Credits
 
-Developed by Tushar Gupta.
+Project credit goes to [freecodecamp.](https://www.freecodecamp.org/)
 
 ## Contact Us
 
